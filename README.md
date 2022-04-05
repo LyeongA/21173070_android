@@ -11,3 +11,4 @@
 <img width="400" height="800" src="./pic/5주차캡쳐1.png"></img>
 <img width="400" height="800" src="./pic/5주차캡쳐2.png"></img>
 <img width="400" height="800" src="./pic/5주차소스코드.png"></img>
+<img width="400" height="800" src="./pic/5주차소스코드2.png"></img>
