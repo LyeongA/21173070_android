@@ -12,3 +12,7 @@
 <img width="400" height="800" src="./pic/5주차캡쳐2.png"></img>
 <img width="400" height="800" src="./pic/5주차소스코드.png"></img>
 <img width="400" height="800" src="./pic/5주차소스코드2.png"></img>
+
+# 6주차
+<img width="400" height="300" src="./pic/6주차1.png"></img>
+<img width="400" height="300" src="./pic/6주차2.png"></img>
