@@ -16,3 +16,9 @@
 # 6주차
 <img width="400" height="300" src="./pic/6주차1.png"></img>
 <img width="400" height="300" src="./pic/6주차2.png"></img>
+
+# 10주차
+<img width="400" height="800" src="./pic/10주차1.png"></img>
+<img width="400" height="800" src="./pic/10주차2.png"></img>
+<img width="400" height="800" src="./pic/10주차3.png"></img>
+<img width="400" height="800" src="./pic/10주차4.png"></img>
